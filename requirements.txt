@@ -1,0 +1,20 @@
+Downloads/imports include the most recent versions of the following:
+nltk
+numpy
+matplotlib.pyplot
+nltk.classify.util
+bs4
+requests
+json
+math
+re
+sys
+os
+pickle
+cPickle
+pprint
+
+Please note that some modules within nltk still required download:
+nltk.download('punkt')
+nltk.download('averaged_perceptron_tagger')
+nltk.download('vader_lexicon')
